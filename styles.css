@@ -1,4 +1,4 @@
-/* G2 Tienda - Greys Gomez | Hoja de estilos principal */
+/* G2 - Greys Gomez | Hoja de estilos principal */
 
 :root {
   --bg: #f7f8fa;
@@ -690,7 +690,7 @@ a {
   color: var(--navy);
 }
 
-/* G2 Tienda Catalog / Services */
+/* G2 Catalog / Services */
 .cards-2 {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));

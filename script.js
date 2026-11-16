@@ -1,4 +1,4 @@
-// G2 Tienda - Greys Gomez | Interacciones esenciales y accesibles
+// G2 - Greys Gomez | Interacciones esenciales y accesibles
 
 const header = document.querySelector('.site-header');
 const menuToggle = document.querySelector('.menu-toggle');
@@ -52,7 +52,7 @@ if (contactForm && formStatus) {
     const mensaje = String(data.get('mensaje') || '').trim();
 
     const targetEmail = contactForm.dataset.email || 'greysgr5@gmail.com';
-    const subject = encodeURIComponent(`[G2 Tienda] Consulta sobre ${area} - ${nombre}`);
+    const subject = encodeURIComponent(`[G2] Consulta sobre ${area} - ${nombre}`);
     const body = encodeURIComponent(
       `Hola Greys Gomez,\n\nNombre: ${nombre}\nCorreo: ${correo}\nArea de interes: ${area}\n\nMensaje:\n${mensaje}\n`
     );
