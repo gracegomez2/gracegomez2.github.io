@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="G2 Tienda">
+  <rect width="64" height="64" rx="14" fill="#0B132B"/>
+  <rect x="3" y="3" width="58" height="58" rx="11" fill="none" stroke="#C9A24D" stroke-width="2"/>
+  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="28" fill="#F8F9FA" letter-spacing="-1">G<tspan fill="#C9A24D">2</tspan></text>
+</svg>
