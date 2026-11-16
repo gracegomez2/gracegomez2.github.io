@@ -1,6 +1,6 @@
-# G2 - Greys Gomez
+# G2 - Grace Gomez
 
-Sitio web estatico de marca personal para **Greys Gomez** bajo la marca **G2**, enfocado en **Contaduria Publica**, **Big Data** e **Inteligencia de Negocios**, listo para publicarse en **GitHub Pages**.
+Sitio web estatico de marca personal para **Grace Gomez** bajo la marca **G2**, enfocado en **Contaduria Publica**, **Big Data** e **Inteligencia de Negocios**, listo para publicarse en **GitHub Pages**.
 
 ## Estructura de archivos
 
@@ -23,7 +23,7 @@ Sitio web estatico de marca personal para **Greys Gomez** bajo la marca **G2**, 
    ```bash
    git init
    git add .
-   git commit -m "feat: sitio inicial G2 para Greys Gomez"
+   git commit -m "feat: sitio inicial G2 para Grace Gomez"
    git branch -M main
    git remote add origin https://github.com/<tu-usuario>/<tu-repositorio>.git
    git push -u origin main
